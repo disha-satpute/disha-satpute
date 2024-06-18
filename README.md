@@ -6,7 +6,8 @@
 - ⚡ IT Student :)
 
 ## 💻 Skills
-🌐 Languages: C, C++ Java, JavaScript, Php, HTML, CSS 
-⚙️ Databases: MySQL, SQL Server, Oracle ,MongoDB
-📜 Version Control: Github
-🛠️ Tools: Visual Studio, Visual Studio Code,Android Studio
+- 🌐 Languages: C, C++ Java, JavaScript, Php, HTML, CSS ,
+- ⚙️ Databases: MySQL, SQL Server, Oracle ,MongoDB
+- 🖥️ Operating System: Linux, Android
+- 📜 Version Control: Github
+- 🛠️ Tools: Visual Studio, Visual Studio Code, Android Studio
