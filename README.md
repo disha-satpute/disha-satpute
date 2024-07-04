@@ -1,7 +1,7 @@
-## Hey there, I'm Disha😊
-- 👀 welcome to the Era of Coding. 
+## Hey there, I'm Disha💕
+- 👀 welcome to my Profile. 
 - 🌱 I’m currently learning Full Stack Development.
-- 💞️ Loved to Explore new Technologies.
+- 😊 Loved to Explore new Technologies.
 - 📫 Enthusiastic Developer.
 - ⚡ IT Student :)
 
