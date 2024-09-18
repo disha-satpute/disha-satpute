@@ -6,7 +6,7 @@
 - ⚡ IT Student :)
 
 ## 💻 Skills
-- 🌐 Languages: C, C++, C#, Java, JavaScript, Php, HTML, CSS 
+- 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS 
 - ⚙️ Databases: MySQL, SQL Server, Oracle, MongoDB ,Jdbc-hybernet
 - ☑️ Runtime: NodeJS
 - 🖥️ Operating Systems: windows ,Linux, Android
