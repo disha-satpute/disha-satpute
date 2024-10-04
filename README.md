@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full Stack Development.
 - 👀 Loved to Explore new Technologies.
 - 🎯 Enthusiastic Developer.
-- ⚡ IT Student :)
+- ⚡ Computer Science Student :)
 
 ## 💻 Skills
 - 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS 
