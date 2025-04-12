@@ -24,5 +24,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disha-satpute&layout=compact)
 
 ## 🌐 Connect with me 
-<a href="https://www.linkedin.com/in/disha-satpute"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80" ></a>  <a href="https://github.com/disha-satpute"><img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" width="80" height="80" >
+<a href="https://leetcode.com/u/disha_satpute/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80" height="80" alt="LeetCode">
+</a>  
+<a href="https://www.linkedin.com/in/disha-satpute" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80" alt="LinkedIn">
+</a>  
+<a href="https://github.com/disha-satpute" target="_blank">
+  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" width="80" height="80" alt="GitHub">
+</a>
 
