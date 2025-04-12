@@ -18,6 +18,9 @@
 
 ![githubstreak](https://streak-stats.demolab.com?user=disha-satpute&theme=highcontrast&border_radius=5.4)
 
+<p >
+  <img src="https://komarev.com/ghpvc/?username=disha-satpute&style=for-the-badge" alt="Profile Views" />
+</p>
   
 ## 👩🏼‍💻 Most Used Languages 
 
