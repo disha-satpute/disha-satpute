@@ -7,8 +7,8 @@
 
 ## 💻 Skills
 - 🌐 Languages: C, C++, Java, JavaScript, Php, HTML, CSS 
-- ⚙️ Databases: MySQL, SQL Server, Oracle, MongoDB ,Jdbc-hybernet
-- ☑️ Runtime: NodeJS
+- ⚙️ Databases: MySQL, SQL Server, Oracle, MongoDB ,Jdbc-hibarnet
+- ☑️ Runtime: Node JS 
 - 🖥️ Operating Systems: windows ,Linux, Android
 - 📜 Version Control: Github
 - 🛠️ Tools: Visual Studio, VS Code, Android Studio, Postman
