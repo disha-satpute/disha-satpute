@@ -13,7 +13,6 @@
 - 📜 Version Control: Github
 - 🛠️ Tools: Visual Studio, VS Code, Android Studio, Postman
 
-
 ## 📊 Github Streak Stats 
 
 ![githubstreak](https://streak-stats.demolab.com?user=disha-satpute&theme=highcontrast&border_radius=5.4)
