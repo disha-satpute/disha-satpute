@@ -1,8 +1,8 @@
 ## Hey there👋, I'm Disha😇
 - 👩🏼‍💻 welcome to my Profile. 
-- 🌱 I’m currently learning Full Stack Development.
+- 🌱 Full Stack Developer.
 - 👀 Loved to Explore new Technologies.
-- 🎯 Enthusiastic Developer.
+- 🎯 Enthusiastic Coder.
 - ⚡ Computer Science Student :)
 
 ## 💻 Skills
