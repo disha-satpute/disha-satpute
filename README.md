@@ -1,5 +1,4 @@
 ## Hey there👋, I'm Disha😇
-- 👩🏼‍💻 welcome to my Profile. 
 - 🌱 Full Stack Developer.
 - 👀 Loved to Explore new Technologies.
 - 🎯 Enthusiastic Coder.
