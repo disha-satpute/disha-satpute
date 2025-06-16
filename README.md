@@ -46,21 +46,11 @@
 
 ## 🌐 Connect with Me
 
-<a href="https://disha-satpute.netlify.app/" target="_blank">
-  <img src="https://www.svgrepo.com/show/331374/netlify.svg" width="80" height="80" alt="Portfolio Website">
-</a>  
-<a href="https://leetcode.com/u/disha_satpute/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="80" height="80" alt="LeetCode">
-</a>  
-<a href="https://www.linkedin.com/in/disha-satpute" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="80" height="80" alt="LinkedIn">
-</a>  
-<a href="https://github.com/disha-satpute" target="_blank">
-  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU=w240-h480-rw" width="80" height="80" alt="GitHub">
-</a>
-<a href="https://www.hackerrank.com/profile/dishasatpute44" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="80" height="80" alt="HackerRank">
-</a>
+[![Portfolio Website](https://img.shields.io/badge/Website-Visit-blueviolet?logo=netlify)](https://disha-satpute.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/disha-satpute)  
+[![GitHub](https://img.shields.io/badge/GitHub-disha--satpute-333?logo=github)](https://github.com/disha-satpute)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/disha_satpute/)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/dishasatpute44)
 
 
 ---
