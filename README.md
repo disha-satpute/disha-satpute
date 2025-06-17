@@ -3,7 +3,7 @@
 - 🌱 Full Stack Developer & Backend Enthusiast  
 - 👩‍💻 Passionate about building real-world solutions using emerging technologies  
 - 🎯 Enthusiastic Coder & Creative Thinker  
-- ⚡ Computer Science Student  
+- ⚡ Third Year Computer Science Student  
 - 🌐 [Check out my portfolio](https://disha-satpute.netlify.app/)
 
 --- 
