@@ -20,10 +20,10 @@
 
 ## 🌱 Currently Learning
 
-- Solidity & Smart Contract Development (Ethereum, Web3.js)  
-- Hyperledger Fabric (Private Blockchain Systems)  
+- AI/ML Concepts (Classification, Prediction, Scikit-learn, Python)
+- AI/ML Integration in Full Stack Projects  
+- TypeScript & Clean Architecture in React 
 - AI/ML Integration in Full Stack Projects   
-- TypeScript & Clean Architecture in React  
 
 ---
 
