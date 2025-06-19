@@ -50,7 +50,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/disha-satpute)  
 [![GitHub](https://img.shields.io/badge/GitHub-disha--satpute-333?logo=github)](https://github.com/disha-satpute)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode)](https://leetcode.com/u/disha_satpute/)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/dishasatpute44)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?logo=hackerrank)](https://www.hackerrank.com/profile/dishasatpute44)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-lil__whale__29-brown?logo=codechef)](https://www.codechef.com/users/lil_whale_29)
+
 
 
 ---
