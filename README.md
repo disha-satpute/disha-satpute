@@ -10,20 +10,22 @@
 
 ## 💻 Skills
 
-- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3  
-- 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs  
+- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3,
+- 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs
+- ⚡ Framework : React.js, React native
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, PL/SQL, JDBC, Hibernate  
-- ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio  
+- ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio,flutter 
 - 🖥️ Operating Systems: Windows, Linux, Android  
 
 ---
 
 ## 🌱 Currently Learning
 
-- AI/ML Concepts (Classification, Prediction, Scikit-learn, Python)
+- AI/ML Concepts(Classification, Prediction, Scikit-learn, Python) & hands-on experience of AIML projects
 - AI/ML Integration in Full Stack Projects  
-- TypeScript & Clean Architecture in React 
-- AI/ML Integration in Full Stack Projects   
+- TypeScript & Clean Architecture in React
+- gaining experience in flutter,React Native
+  
 
 ---
 
