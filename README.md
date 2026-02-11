@@ -4,7 +4,6 @@
 - 👩‍💻 Passionate about building real-world solutions using emerging technologies  
 - 🎯 Enthusiastic Coder & Creative Thinker  
 - ⚡ Third Year Computer Science Student  
-- 🌐 [Check out my portfolio](https://disha-satpute.netlify.app/)
 
 --- 
 
