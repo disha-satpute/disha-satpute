@@ -27,12 +27,6 @@
 
 ---
 
-## 👩🏼‍💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disha-satpute&layout=compact)
-
----
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/disha-satpute)  
