@@ -4,14 +4,13 @@
 - 👩‍💻 Passionate about building real-world solutions using emerging technologies  
 - 🎯 Enthusiastic Coder & Creative Thinker  
 - ⚡ Third Year Computer Science Student
-- 
 --- 
 
 ## 💻 Skills
 
 - 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3,
 - 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs
-- ⚡ Framework : React.js, React native
+- ⚡ Framework : React.js
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, PL/SQL, JDBC, Hibernate  
 - ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio,flutter 
 - 🖥️ Operating Systems: Windows, Linux, Android  
