@@ -23,7 +23,6 @@
 - AI/ML Integration in Full Stack Projects  
 - TypeScript & Clean Architecture in React
 - gaining experience in flutter,React Native
-  
 
 ---
 
