@@ -9,10 +9,10 @@
 ## 💻 Skills
 
 - 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3,
-- 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs
+- 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs, scala
 - ⚡ Framework : React.js
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, PL/SQL, JDBC, Hibernate  
-- ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio,flutter 
+- ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio, flutter 
 - 🖥️ Operating Systems: Windows, Linux, Android  
 
 ---
