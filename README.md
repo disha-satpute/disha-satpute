@@ -8,7 +8,7 @@
 
 ## 💻 Skills
 
-- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3, Scala
+- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3
 - 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs, scala
 - ⚡ Framework : React.js
 - 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, ArangoDB
