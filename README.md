@@ -8,10 +8,10 @@
 
 ## 💻 Skills
 
-- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3,
+- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3, Scala
 - 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs, scala
 - ⚡ Framework : React.js
-- 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, PL/SQL, JDBC, Hibernate  
+- 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, ArangoDB
 - ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio, flutter 
 - 🖥️ Operating Systems: Windows, Linux, Android  
 
@@ -25,6 +25,11 @@
 - gaining experience in flutter,React Native
 
 ---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=disha-satpute&theme=github-dark&hide_border=true)
+
 
 ## 🌐 Connect with Me
 
