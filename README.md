@@ -17,14 +17,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-- AI/ML Concepts & hands-on experience of AIML projects
-- AI/ML Integration in Full Stack Projects  
-
-
----
-
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=disha-satpute&theme=github-dark&hide_border=true)
