@@ -19,10 +19,9 @@
 
 ## 🌱 Currently Learning
 
-- AI/ML Concepts(Classification, Prediction, Scikit-learn, Python) & hands-on experience of AIML projects
+- AI/ML Concepts & hands-on experience of AIML projects
 - AI/ML Integration in Full Stack Projects  
-- TypeScript & Clean Architecture in React
-- gaining experience in flutter,React Native
+
 
 ---
 
