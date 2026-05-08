@@ -28,11 +28,6 @@ Windows • Linux • Android
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=disha-satpute&theme=github-dark&hide_border=true)
-
-
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/disha-satpute)  
