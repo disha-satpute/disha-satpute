@@ -6,14 +6,25 @@
 - ⚡ Third Year Computer Science Student
 --- 
 
-## 💻 Skills
+## 🛠 Tech Stack
 
-- 🌐 Languages: C, C++, Java, JavaScript, PHP, HTML5, CSS3
-- 🔧 Backend: Node.js, Express.js, Java Servlets, JSP, RESTful APIs, scala
-- ⚡ Framework : React.js
-- 🛢️ Databases: MySQL, PostgreSQL, MongoDB, Oracle SQL, ArangoDB
-- ⚙️ Tools & Platforms: Git, Postman, XAMPP, Visual Studio, VS Code, Android Studio, flutter 
-- 🖥️ Operating Systems: Windows, Linux, Android  
+### 💻 Languages
+C • C++ • Java • JavaScript • PHP • Scala
+
+### 🌐 Frontend
+HTML5 • CSS3 • React.js
+
+### ⚙️ Backend
+Node.js • Express.js • Java Servlets • JSP • RESTful APIs
+
+### 🗄 Databases
+MySQL • PostgreSQL • MongoDB • Oracle SQL • ArangoDB
+
+### 🔧 Tools & Platforms
+Git • Postman • XAMPP • VS Code • Visual Studio • Android Studio • Flutter
+
+### 🖥 Operating Systems
+Windows • Linux • Android
 
 ---
 
