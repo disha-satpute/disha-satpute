@@ -13,12 +13,11 @@
 
 ## 🚀 About Me
 
-🎓 Final Year B.Tech Computer Engineering Student
+🎓 Final Year B.Tech Computer Engineering Student.
 
-🤖 AI/ML Enthusiast with multiple healthcare and educational AI projects
+🤖 AI/ML Enthusiast with multiple healthcare and educational AI projects.
 
-
-🌱 Currently exploring Agentic AI, Generative AI, and Enterprise Backend Systems
+🌱 Currently exploring Agentic AI, Generative AI, and Enterprise Backend Systems.
 
 ---
 
@@ -89,7 +88,7 @@
 ## 🌱 Currently Learning
 
 * Agentic AI & Multi-Agent Systems
-* Generative AI, RAG and automaton
+* Generative AI, RAG and automation
 * Advanced Machine Learning & Deep Learning
 
 ---
