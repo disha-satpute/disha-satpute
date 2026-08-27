@@ -4,7 +4,7 @@
 
 ### Software Engineer • Full Stack Developer • AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Backend+Engineer;BMC+Software+Intern;Building+Scalable+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Backend+Engineer;Building+Scalable+Solutions" />
 
 
 </div>
